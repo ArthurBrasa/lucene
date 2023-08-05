@@ -1,0 +1,12 @@
+Personagem  | Classe     | Nível | Vida  | Mana
+-----------------------------------------------
+Gandalf     | Mago       | 35    | 520   | 800
+Aragorn     | Guerreiro  | 40    | 700   | 200
+Legolas     | Arqueiro   | 30    | 420   | 350
+Gimli       | Guerreiro  | 32    | 600   | 50
+Galadriel   | Mago       | 38    | 480   | 900
+Frodo       | Ladrão     | 20    | 250   | 100
+Sam         | Curandeiro | 28    | 350   | 600
+Boromir     | Guerreiro  | 34    | 650   | 100
+Gollum      | Ladrão     | 26    | 300   | 200
+Elrond      | Mago       | 37    | 500   | 700
